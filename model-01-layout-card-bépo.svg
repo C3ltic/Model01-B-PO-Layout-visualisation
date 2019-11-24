@@ -13,10 +13,10 @@
    version="1.1"
    id="svg603"
    sodipodi:docname="model-01-layout-card-bépo.svg"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="297mm"
    height="210mm"
-   inkscape:export-filename="C:\Users\ybrosse\Documents\Model01-B-PO-Layout-visualisation\model-01-layout-card-bépo.png"
+   inkscape:export-filename="C:\Users\yoann\Documents\Arduino\Model01-B-PO-Layout-visualisation\model-01-layout-card-bépo2.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <metadata
@@ -41,17 +41,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
+     inkscape:window-height="1017"
      id="namedview605"
      showgrid="false"
-     inkscape:zoom="5.3398956"
-     inkscape:cx="712.89335"
-     inkscape:cy="586.02985"
+     inkscape:zoom="1.2828283"
+     inkscape:cx="686.37612"
+     inkscape:cy="407.43544"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg603"
-     units="mm" />
+     units="mm"
+     inkscape:snap-text-baseline="false" />
   <g
      id="outline"
      transform="matrix(0.06826064,0,0,0.06826064,-23.62076,33.945283)">
@@ -362,96 +363,89 @@
      y="-111.53371"
      x="676.11359">Menu</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848;"
      id="text123"
      transform="rotate(12.947321)"
      font-size="26"
      y="89.472015"
      x="228.79321">F1</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848;"
      id="text125"
      transform="rotate(15.407367)"
      font-size="26"
      y="67.620552"
      x="292.29529">F2</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848;"
      id="text127"
      transform="rotate(15.042594)"
      font-size="26"
      y="65.110977"
      x="352.38312">F3</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848;"
      id="text129"
      transform="rotate(16.208292)"
      font-size="26"
      y="59.025642"
      x="411.56262">F4</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848;"
      id="text131"
      transform="rotate(15.721575)"
      font-size="26"
      y="73.871796"
      x="468.66528">F5</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text133"
-     transform="rotate(18.579454)"
+     transform="rotate(-16.729842)"
      font-size="26"
-     y="76.811089"
-     x="528.1778">F6</text>
+     y="378.909"
+     x="602.84003">F6</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text135"
-     transform="rotate(9.4538219)"
+     transform="rotate(-16.593074)"
      font-size="26"
-     y="187.54636"
-     x="217.01343">F7</text>
+     y="370.38931"
+     x="662.7334">F7</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text137"
-     transform="rotate(12.677655)"
+     transform="rotate(-11.717637)"
      font-size="26"
-     y="144.65807"
-     x="289.12955">F8</text>
+     y="308.41867"
+     x="752.32764">F8</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text139"
-     transform="rotate(11.407501)"
+     transform="rotate(-14.708463)"
      font-size="26"
-     y="141.54305"
-     x="347.15833">F9</text>
+     y="355.50003"
+     x="799.22058">F9</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text141"
-     transform="rotate(15.547341)"
+     transform="rotate(-9.547958)"
      font-size="26"
-     y="118.23156"
-     x="405.72623">F10</text>
+     y="288.08075"
+     x="880.81665">F10</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text143"
-     transform="rotate(15.01692)"
+     transform="rotate(-11.60005)"
      font-size="26"
-     y="134.77197"
-     x="462.27478">F11</text>
+     y="349.31653"
+     x="927.05548">F11</text>
   <text
-     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848"
+     style="font-size:14.7898016px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;fill-opacity:1;stroke-width:0.56883848"
      id="text145"
-     transform="rotate(15.427135)"
+     transform="rotate(-11.62642)"
      font-size="26"
-     y="176.03688"
-     x="519.51636">F12</text>
-  <text
-     style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;stroke-width:0.56883848"
-     id="text147"
-     transform="rotate(10.988563)"
-     font-size="20"
-     y="205.82658"
-     x="145.05035">Tab</text>
+     y="403.57983"
+     x="930.59583">F12</text>
   <text
      style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;stroke-width:0.56883848"
      id="text149"
@@ -506,7 +500,7 @@
      y="798.18219"
      x="264.90939">Enter</text>
   <g
-     transform="matrix(0.56883848,0,0,0.56883848,55.922893,-110.6795)"
+     transform="matrix(0.56659546,0.05046579,-0.05046579,0.56659546,304.80248,-13.464202)"
      id="g5152">
     <path
        style="fill:#0000ff"
@@ -846,7 +840,7 @@
        stroke-miterlimit="1.5" />
   </g>
   <g
-     transform="matrix(0.56883848,0,0,0.56883848,134.88796,-81.465311)"
+     transform="matrix(0.5670428,0.04516277,-0.04516277,0.5670428,316.79147,33.652984)"
      id="g5147">
     <path
        style="fill:#0000ff"
@@ -862,7 +856,7 @@
        id="path374" />
   </g>
   <g
-     transform="matrix(0.56883848,0,0,0.56883848,24.105451,-9.1529201)"
+     transform="matrix(0.56811071,0.02876528,-0.02876528,0.56811071,245.5734,74.279977)"
      id="g5143">
     <path
        style="fill:#0000ff"
@@ -881,162 +875,158 @@
      style="fill:none;stroke:#0000ff;stroke-width:1.13767695;stroke-linejoin:round;stroke-miterlimit:1.5"
      inkscape:connector-curvature="0"
      id="path229-1"
-     d="m 810.28575,138.44272 a 0.54892913,0.54892913 0 0 0 -0.666,-0.39934 l -8.607,2.15172 a 0.54892913,0.54892913 0 0 0 -0.39953,0.66554 l 2.15155,8.60767 a 0.54949797,0.54949797 0 0 0 0.66593,0.39933 l 8.6069,-2.15173 a 0.54949797,0.54949797 0 0 0 0.39971,-0.66546 z"
+     d="m 1029.3163,245.40321 a 0.54892913,0.54892913 0 0 0 -0.6429,-0.43563 l -8.713,1.67154 a 0.54892913,0.54892913 0 0 0 -0.4358,0.64237 l 1.6713,8.71366 a 0.54949797,0.54949797 0 0 0 0.6428,0.43561 l 8.7129,-1.67154 a 0.54949797,0.54949797 0 0 0 0.4359,-0.6423 z"
      stroke-miterlimit="1.5" />
+  <text
+     style="font-size:17.0651474px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.5688383"
+     id="text381"
+     transform="rotate(-12.999942)"
+     font-size="30"
+     y="523.38806"
+     x="757.54938">.</text>
+  <text
+     style="font-size:17.0651474px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.5688383"
+     id="text383"
+     transform="rotate(-12.999942)"
+     font-size="30"
+     y="547.92316"
+     x="812.15436">*</text>
+  <text
+     style="font-size:13.65211868px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.5688383"
+     id="text385"
+     transform="rotate(-12.999942)"
+     font-size="24"
+     y="563.30945"
+     x="870.26489">/</text>
+  <text
+     style="font-size:9.1014185px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883866"
+     id="text387"
+     transform="rotate(-11.617259)"
+     font-size="16"
+     y="538.94312"
+     x="928.45569">Enter</text>
+  <text
+     style="font-size:13.6521225px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883842"
+     id="text389"
+     transform="rotate(-11.451244)"
+     font-size="24"
+     y="478.53159"
+     x="884.71997">=</text>
+  <text
+     style="font-size:17.06515694px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.5688386"
+     id="text391"
+     transform="rotate(-10.87815)"
+     font-size="30"
+     y="360.04941"
+     x="889.74481">-</text>
+  <text
+     style="font-size:13.65212154px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883836"
+     id="text393"
+     transform="rotate(-10.882295)"
+     font-size="24"
+     y="416.32779"
+     x="889.12744">+</text>
+  <text
+     style="font-size:13.65211582px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883818"
+     id="text395"
+     transform="rotate(-15.429302)"
+     font-size="24"
+     y="388.04913"
+     x="676.0506">7</text>
+  <text
+     style="font-size:13.65211773px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883824"
+     id="text397"
+     transform="rotate(-14.727613)"
+     font-size="24"
+     y="375.224"
+     x="740.41864">8</text>
+  <text
+     style="font-size:13.65212345px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883848"
+     id="text399"
+     transform="rotate(-12.618597)"
+     font-size="24"
+     y="358.96133"
+     x="817.04816">9</text>
+  <text
+     style="font-size:13.65211964px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883836"
+     id="text401"
+     transform="rotate(-15.439698)"
+     font-size="24"
+     y="441.84552"
+     x="675.27338">4</text>
+  <text
+     style="font-size:13.65211964px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.5688383"
+     id="text403"
+     transform="rotate(-14.664409)"
+     font-size="24"
+     y="428.16049"
+     x="740.66559">5</text>
+  <text
+     style="font-size:13.65211582px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883818"
+     id="text405"
+     transform="rotate(-12.430614)"
+     font-size="24"
+     y="412.81805"
+     x="819.20551">6</text>
+  <text
+     style="font-size:13.65212345px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883848"
+     id="text407"
+     transform="rotate(-15.353642)"
+     font-size="24"
+     y="494.75443"
+     x="677.5329">1</text>
+  <text
+     style="font-size:13.65212727px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883866"
+     id="text409"
+     transform="rotate(-14.439224)"
+     font-size="24"
+     y="479.28699"
+     x="742.46954">2</text>
+  <text
+     style="font-size:13.65212536px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.5688386"
+     id="text411"
+     transform="rotate(-12.495034)"
+     font-size="24"
+     y="467.19339"
+     x="819.75494">3</text>
   <g
-     id="Numlock-keys"
-     transform="matrix(0.06826064,0,0,0.06826064,-23.62076,33.945283)">
+     transform="matrix(0.06826064,0,0,0.06826064,-24.229386,36.145701)"
+     id="g5110">
     <text
-       x="1374.12"
-       y="867.28302"
-       font-size="30"
-       transform="matrix(8.1197468,-1.8745826,1.8745826,8.1197468,100.99996,10.999996)"
-       id="text381"
-       style="font-size:30px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">.</text>
-    <text
-       x="1474.17"
-       y="912.58301"
-       font-size="30"
-       transform="matrix(8.1197468,-1.8745826,1.8745826,8.1197468,63.999974,0.9999996)"
-       id="text383"
-       style="font-size:30px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">*</text>
-    <text
-       x="1577.1899"
-       y="940.69299"
+       x="10352.316"
+       y="7732.415"
        font-size="24"
-       transform="matrix(8.1197468,-1.8745826,1.8745826,8.1197468,54.999978,-5.9999976)"
-       id="text385"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">/</text>
-    <text
-       x="14040.715"
-       y="7477.9517"
-       font-size="16"
-       transform="rotate(-11.617256)"
-       id="text387"
-       style="font-size:133.33332825px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:8.33333302">Enter</text>
-    <text
-       x="1581.08"
-       y="831.99298"
-       font-size="24"
-       transform="matrix(8.1674467,-1.6544493,1.6544493,8.1674467,150.86494,-379.10152)"
-       id="text389"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">=</text>
-    <text
-       x="1589.75"
-       y="631.80402"
-       font-size="30"
-       transform="matrix(8.1835884,-1.5726744,1.5726744,8.1835884,138.28994,-447.59565)"
-       id="text391"
-       style="font-size:30px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">-</text>
-    <text
-       x="1588.0699"
-       y="742.86401"
-       font-size="24"
-       transform="matrix(8.1834717,-1.573266,1.573266,8.1834717,124.09078,-547.73478)"
-       id="text393"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">+</text>
-    <text
-       x="1262.96"
-       y="574.32397"
-       font-size="24"
-       transform="matrix(8.0329885,-2.2170741,2.2170741,8.0329885,-13.168078,534.24062)"
-       id="text395"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">7</text>
-    <text
-       x="1366.67"
-       y="570.21399"
-       font-size="24"
-       transform="matrix(8.0595384,-2.1185325,2.1185325,8.0595384,11.304662,361.16319)"
-       id="text397"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">8</text>
-    <text
-       x="1481.6"
-       y="579.604"
-       font-size="24"
-       transform="matrix(8.1320467,-1.8204993,1.8204993,8.1320467,71.663888,3.3994236)"
-       id="text399"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">9</text>
-    <text
-       x="1270.3101"
-       y="675.45398"
-       font-size="24"
-       transform="matrix(8.0325885,-2.2185324,2.2185324,8.0325885,-97.548294,500.96813)"
-       id="text401"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">4</text>
-    <text
-       x="1373.87"
-       y="666.034"
-       font-size="24"
-       transform="matrix(8.0618718,-2.1096408,2.1096408,8.0618718,-50.010563,352.82153)"
-       id="text403"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">5</text>
-    <text
-       x="12446.111"
-       y="5636.5293"
-       font-size="24"
-       transform="rotate(-12.430611)"
-       id="text405"
-       style="font-size:199.99983215px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:8.33332634">6</text>
-    <text
-       x="1272.47"
-       y="772.86401"
-       font-size="24"
-       transform="matrix(8.0359135,-2.2064658,2.2064658,8.0359135,-94.190796,460.96065)"
-       id="text407"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">1</text>
-    <text
-       x="1375.22"
-       y="757.534"
-       font-size="24"
-       transform="matrix(8.0701051,-2.0779408,2.0779408,8.0701051,-42.025567,334.3882)"
-       id="text409"
-       style="font-size:24px;font-family:GothamBook, 'Gotham Book';fill:#ff0000">2</text>
-    <text
-       x="12454.622"
-       y="6433.6138"
-       font-size="24"
-       transform="rotate(-12.495031)"
-       id="text411"
-       style="font-size:199.99996948px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:8.33333206">3</text>
-    <g
-       id="g5110"
-       transform="translate(-8.916209,32.235525)">
-      <text
-         style="font-size:199.99987793px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:8.33332825"
-         id="text413"
-         transform="rotate(-15.40695)"
-         font-size="24"
-         y="7732.415"
-         x="10352.316">0</text>
-      <path
-         style="fill:#ffffff;stroke:#ff0000;stroke-width:12.5;stroke-linejoin:round;stroke-miterlimit:1.5"
-         inkscape:connector-curvature="0"
-         id="path415"
-         d="m 12094.913,4560.3459 -19.71,114.213"
-         stroke-miterlimit="1.5" />
-    </g>
-    <text
-       style="font-size:133.33332825px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:8.33333302"
-       x="14108.79"
-       y="6647.832"
-       font-size="16"
-       transform="rotate(-11.617256)"
-       id="text387-5">Enter</text>
-    <text
-       style="font-size:166.66659546px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:8.33333015"
-       id="text147-9"
-       transform="rotate(-16.770775)"
-       font-size="20"
-       y="5732.2339"
-       x="9243.5078">Tab</text>
-    <text
-       style="font-size:166.66659546px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:8.33333015"
-       id="text147-9-2"
-       transform="rotate(-16.770775)"
-       font-size="20"
-       y="6519.5825"
-       x="9238.7891">Tab</text>
+       transform="rotate(-15.40695)"
+       id="text413"
+       style="font-size:199.99987793px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:8.33332825">0</text>
+    <path
+       stroke-miterlimit="1.5"
+       d="m 12094.913,4560.3459 -19.71,114.213"
+       id="path415"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:12.5;stroke-linejoin:round;stroke-miterlimit:1.5" />
   </g>
+  <text
+     id="text387-5"
+     transform="rotate(-11.617259)"
+     font-size="16"
+     y="482.27863"
+     x="933.10254"
+     style="font-size:9.1014185px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;stroke-width:0.56883866">Enter</text>
+  <text
+     x="598.55701"
+     y="416.97183"
+     font-size="20"
+     transform="rotate(-16.770773)"
+     id="text147-9"
+     style="font-size:11.37676907px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848">Tab</text>
+  <text
+     x="598.23492"
+     y="470.71677"
+     font-size="20"
+     transform="rotate(-16.770773)"
+     id="text147-9-2"
+     style="font-size:11.37676907px;font-family:GothamBook, 'Gotham Book';fill:#ff0000;fill-opacity:1;stroke-width:0.56883848">Tab</text>
   <g
      id="Keyboardio-Logo"
      transform="matrix(0.04730271,0,0,0.04730271,926.81999,684.98663)">
@@ -1190,13 +1180,6 @@
      transform="rotate(38.445662)"
      id="text518"
      style="font-size:11.3767662px;font-family:GothamBook, 'Gotham Book';stroke-width:0.56883842">BkSp</text>
-  <text
-     x="675.24402"
-     y="-103.2757"
-     font-size="20"
-     transform="rotate(58.683077)"
-     id="text520"
-     style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';stroke-width:0.56883842">Cmd</text>
   <g
      id="g5088"
      transform="matrix(0.06700634,-0.01302561,0.01302561,0.06700634,-138.35462,92.088472)">
@@ -1470,13 +1453,6 @@
        x="503.08124"
        y="154.5661"
        style="stroke-width:0.06826065">$</tspan></text>
-  <text
-     style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;stroke-width:0.56883848"
-     id="text159-3"
-     transform="rotate(14.105026)"
-     font-size="20"
-     y="229.1552"
-     x="510.92346">Del</text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:13.10604477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.06826065"
@@ -2057,14 +2033,14 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:13.10604477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.06826065"
-     x="397.38248"
-     y="551.57733"
+     x="413.86887"
+     y="539.72894"
      id="text5780"
      transform="rotate(-32.903149)"><tspan
        sodipodi:role="line"
        id="tspan5778"
-       x="397.38248"
-       y="551.57733"
+       x="413.86887"
+       y="539.72894"
        style="stroke-width:0.06826065">`</tspan></text>
   <text
      style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';fill:#0000ff;stroke-width:0.56883848"
@@ -2728,14 +2704,14 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:13.10604477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.06826065"
-     x="946.81262"
-     y="461.62442"
+     x="948.32788"
+     y="471.10428"
      id="text6020"
      transform="rotate(-11.474638)"><tspan
        sodipodi:role="line"
        id="tspan6018"
-       x="946.81262"
-       y="461.62442"
+       x="948.32788"
+       y="471.10428"
        style="stroke-width:0.06826065">¯</tspan></text>
   <text
      xml:space="preserve"
@@ -3025,4 +3001,90 @@
        id="tspan4995-4"
        x="821.57458"
        y="439.82401">*</tspan></text>
+  <path
+     id="path13-0"
+     d="m 451.52674,518.57781 5.1381,6.63468 -6.94379,4.01343 -4.19636,-7.17366 z m -2.60994,11.10344 -6.94863,4.01927 -3.16586,-7.76866 6.0086,-3.46963 z m 8.37829,-3.67334 6.90582,8.74318 -8.37917,4.83772 -5.58816,-9.50394 z m -2.426,14.1339 -8.34279,4.81353 -4.16484,-10.32569 7.0017,-4.06029 z"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.23299152" />
+  <g
+     id="g7126"
+     transform="matrix(0.01520826,0.00373865,-0.00373865,0.01520826,109.77613,213.76264)"
+     style="fill:#0000ff;fill-opacity:1">
+    <g
+       id="g7124"
+       style="fill:#0000ff;fill-opacity:1">
+      <path
+         id="path7116"
+         d="M 928.8,10 H 990 V 500 H 928.7 V 10 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#0000ff;fill-opacity:1" />
+      <path
+         id="path7118"
+         d="M 10,500 H 71.3 V 990 H 10 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#0000ff;fill-opacity:1" />
+      <path
+         id="path7120"
+         d="M 316.3,683.8 H 990 V 806.3 H 316.3 V 959.4 L 101.9,745 316.3,530.6 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#0000ff;fill-opacity:1" />
+      <path
+         id="path7122"
+         d="M 683.8,316.3 H 10 V 193.8 H 683.8 V 40.6 L 898.1,255 683.8,469.4 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#0000ff;fill-opacity:1" />
+    </g>
+  </g>
+  <text
+     style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';clip-rule:evenodd;fill:#0000ff;fill-rule:evenodd;stroke-width:0.56883848;stroke-linecap:round"
+     id="text159-3"
+     transform="rotate(14.105026)"
+     font-size="20"
+     y="227.02817"
+     x="509.53677">Del</text>
+  <text
+     style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';clip-rule:evenodd;fill:#0000ff;fill-rule:evenodd;stroke-width:0.56883848;stroke-linecap:round"
+     id="text159-3-3"
+     transform="rotate(16.748863)"
+     font-size="20"
+     y="273.41898"
+     x="508.09174">
+    <tspan
+       style="font-size:10.66666698px"
+       id="tspan7161">GAMING</tspan>
+  </text>
+  <text
+     style="font-size:11.37677002px;font-family:GothamBook, 'Gotham Book';clip-rule:evenodd;fill:#0000ff;fill-rule:evenodd;stroke-width:0.56883848;stroke-linecap:round"
+     id="text159-3-8"
+     transform="rotate(-15.149967)"
+     font-size="20"
+     y="580.72192"
+     x="532.32434">
+    <tspan
+       style="font-size:10.66666698px"
+       id="tspan7169">QWERTY</tspan>
+  </text>
+  <text
+     x="529.2652"
+     y="409.41003"
+     font-size="20"
+     transform="rotate(-15.582409)"
+     id="text147-9-24"
+     style="font-size:11.37676907px;font-family:GothamBook, 'Gotham Book';clip-rule:evenodd;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.56883848;stroke-linecap:round">Version</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="556.89166"
+     y="99.141739"
+     id="text7210"><tspan
+       sodipodi:role="line"
+       id="tspan7208"
+       x="556.89166"
+       y="99.141739"
+       style="font-size:37.33333206px;line-height:0px">BÉPO</tspan><tspan
+       sodipodi:role="line"
+       x="556.89166"
+       y="149.14174"
+       id="tspan7215"
+       style="font-size:37.33333206px;line-height:0px">Layout</tspan></text>
 </svg>
